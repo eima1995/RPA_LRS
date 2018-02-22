@@ -1,6 +1,7 @@
 # Paleidimas:
 Robotas priskiria failų atsisiuntimams darbinę direktoriją.
-Naudojama IDE UIPATH.
+Naudojama IDE UIPATH 18.1.1 versija.
+Pastaba: Datos formatas res.xlsx faile yra numatytas pagal excel nustatytą datos formatą.
 
 # Veikimas:
 Robotas atidaro nuorodą:
